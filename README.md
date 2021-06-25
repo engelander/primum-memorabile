@@ -1,14 +1,3 @@
-# primum-memorabile
-primum memorabile
-# This workflow will upload a Python Package 
-# This workflow will upload Ansible
-
-
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
 name: Upload Python Package
 
 on:
